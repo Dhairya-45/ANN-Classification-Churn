@@ -6,3 +6,7 @@ venv/
 .venv/
 __pycache__/
 .streamlit/
+
+# Ignore runtime logs and log folders
+logs/
+*.log
